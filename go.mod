@@ -72,7 +72,7 @@ require (
 	github.com/davecgh/go-spew v1.1.1 // indirect
 	github.com/deislabs/oras v0.11.1 // indirect
 	github.com/docker/cli v20.10.5+incompatible // indirect
-	github.com/docker/distribution v2.7.1+incompatible // indirect
+	github.com/docker/distribution v2.8.2+incompatible // indirect
 	github.com/docker/docker v20.10.2+incompatible // indirect
 	github.com/docker/docker-credential-helpers v0.6.3 // indirect
 	github.com/docker/go-connections v0.4.0 // indirect
